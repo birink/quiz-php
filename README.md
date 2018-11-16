@@ -12,3 +12,5 @@ Main steps:
 6. coding was done and site was created. was sad that frameworks were forbiden. (would be easier to create everything)
 
 p.s. Sorry for not having any unit tests. Just didn't have time to create those yet.
+
+Also did not commit "vendor" folder because that's lot of "composer" files. Those can be downloaded separately via terminal.
